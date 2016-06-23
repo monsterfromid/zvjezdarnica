@@ -45,3 +45,4 @@ Dodatne upute možete skinuti i direktno s projektnog direktorija (zvz_v3.87_upu
 
 Ako imate zamjerke ili nove prijedloge , slobodne šaljite na email : zcunko@inet.hr;
 
+Također, ako vam je ovaj program bio koristan i mislite pomoći daljnjem razvoju njega i sl. projekata, razmislite o uplati na slj. paypal račun : zcunko@inet.hr
