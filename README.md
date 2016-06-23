@@ -13,32 +13,19 @@
 
  Fičuri: 
  
- Gregorijanski majanski, astečki, kineski, egipatski kalendar
- 
+ Gregorijanski majanski, astečki, kineski, egipatski kalendar,
  Sunčev sustav,
- 
- Mjesečeve mjene
- 
+ Mjesečeve mjene,
  Zvjezdano nebo,
- 
  Astrološki horoskop,
- 
- Mjesečna kretanja planeta i ascedenta
- 
+ Mjesečna kretanja planeta i ascedenta,
  Astrolooške analize i tumači,
- 
  medicinski horoskop s tumačem,
- 
  Numerološke analize
- 
  Baza podataka osoba
  
 
-
- Upute: Odpakirajte zvz_v387.rar arhivu bilo gdje na vašem disku, i pokrenite zvz2win.exe
- 
-
-Dodatne upute možete skinuti i direktno s projektnog direktorija (zvz_v3.87_upute.swf).
+Upute: Odpakirajte zvz_v387.rar arhivu bilo gdje na vašem disku, i pokrenite zvz2win.exe
 
 
 Ako imate zamjerke ili nove prijedloge , slobodne šaljite na email : zcunko@inet.hr;
