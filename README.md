@@ -33,4 +33,4 @@ Upute: Odpakirajte zvz_v387.rar arhivu bilo gdje na vašem disku, i pokrenite zv
 
 Ako imate zamjerke ili nove prijedloge , slobodne šaljite na email : zcunko@inet.hr;
 
-Također, ako vam je ovaj program bio koristan i mislite pomoći daljnjem razvoju njega i sl. projekata, razmislite o uplati na slj. paypal račun : zcunko@inet.hr
+Također, ako vam je ovaj program bio koristan i mislite pomoći daljnjem razvoju, razmislite o uplati na slj. paypal račun : zcunko@inet.hr
