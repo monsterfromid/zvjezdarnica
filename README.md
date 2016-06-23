@@ -1,8 +1,8 @@
-#PC Zvjezdarnica - program za astrološke ,astronomske i kalendarska izračune.. 
+##PC Zvjezdarnica - program za astrološke ,astronomske i kalendarska izračune.. 
 
  Platform: Windows, 32bit;
  
- Language: croatian/serbian
+ Language: croatian 
  
  Prg. lang. : c++ (binary compile)
  
