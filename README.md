@@ -7,9 +7,7 @@
  Prg. lang. : c++ (binary compile)
  
  Years of developement: 2007-2016
- 
- Author: Z.Cunko
- 
+
 
 --------------------------------------------------------------
 
