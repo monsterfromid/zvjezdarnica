@@ -23,9 +23,12 @@
  medicinski horoskop s tumačem,
  Numerološke analize
  Baza podataka osoba
- 
+ --------------------------------------------------------------
+
 
 Upute: Odpakirajte zvz_v387.rar arhivu bilo gdje na vašem disku, i pokrenite zvz2win.exe
+
+--------------------------------------------------------------
 
 
 Ako imate zamjerke ili nove prijedloge , slobodne šaljite na email : zcunko@inet.hr;
