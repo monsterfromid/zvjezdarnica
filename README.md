@@ -32,8 +32,7 @@ Upute: Odpakirajte zvz_v387.rar arhivu bilo gdje na vašem disku, i pokrenite zv
 
 Napomene:
 
-1) autor garantira da softver ne sadrži namjerni maliciozni kod izvan opisa softvera
+1) autor garantira da softver ne sadrži namjerni maliciozni kod izvan opisa softvera ; informativno je priloženo i jezgro source koda (c/h fajlovi)
 
-2) autor ne preuzima nikakve odgovornost za bilo kakve nepredviđene probleme koji event. mogu nastati korištenjem ovog programa
-
+2) autor ne preuzima nikakve odgovornost za bilo kakve nepredviđene probleme koji event. mogu nastati korištenjem ovog programa 
 3) Ako vam je ovaj program bio koristan i mislite pomoći daljnjem razvoju , razmislite o uplati na slj. paypal račun : zcunko@inet.hr 
