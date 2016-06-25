@@ -30,4 +30,10 @@ Upute: Odpakirajte zvz_v387.rar arhivu bilo gdje na vašem disku, i pokrenite zv
 
 --------------------------------------------------------------
 
-Ako vam je ovaj program bio koristan i mislite pomoći daljnjem razvoju, razmislite o uplati na slj. paypal račun : zcunko@inet.hr
+Napomene:
+
+1) autor garantira da softver ne sadrži namjerni maliciozni kod izvan opisa softvera
+
+2) autor ne preuzima nikakve odgovornost za bilo kakve nepredviđene probleme koji event. mogu nastati korištenjem ovog programa
+
+3) Ako vam je ovaj program bio koristan i mislite pomoći daljnjem razvoju , razmislite o uplati na slj. paypal račun : zcunko@inet.hr 
